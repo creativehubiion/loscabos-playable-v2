@@ -12,6 +12,7 @@
     "phaser": "^3.80.1"
   },
   "devDependencies": {
+    "terser": "^5.47.1",
     "vite": "^5.4.10"
   }
 }
