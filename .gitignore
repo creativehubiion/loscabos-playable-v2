@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.rewrite/
+__MACOSX/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,17 @@
+{
+  "name": "condor-loscabos-playable",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --config vite/config.dev.mjs",
+    "build": "vite build --config vite/config.prod.mjs"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
